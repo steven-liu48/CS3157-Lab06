@@ -10,4 +10,4 @@ vtest: http-client
 
 .PHONY: clean
 clean:
-	rm -f *.o *.a *.html *.jpg
+	rm -f *.o *.a *.html *.jpg http-client

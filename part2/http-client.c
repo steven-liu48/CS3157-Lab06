@@ -123,7 +123,7 @@ int main(int argc, char **argv)
 		fputc(c, fp);
 	}
 	*/	
-	printf("%d", i);
+	//printf("%d", i);
 
 	fclose(fp);
 	fclose(response);
